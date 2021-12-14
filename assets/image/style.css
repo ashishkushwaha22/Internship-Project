@@ -14,7 +14,7 @@ html, body {
 }
 
 main {
-    width: calc(90% - 20px);
+    width: 100%;
     margin: 0 auto;
 }
 
